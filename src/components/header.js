@@ -34,11 +34,11 @@ const Header = ({ siteTitle }) => (
           <Col xs={12} sm={12} md={4} lg={4}>
             <div style={{textAlign: "right"}}>
               <Link to="/" className="text-sub">
-                <b>〒279-0004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-                千葉県浦安市猫実3-28-28</b>
+                <b>〒XXX-XXXX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+                XX県XX市XX X-XX-XX</b>
               </Link>
               <br />
-              <Link to="/" className="text-sub text-right"><b>047-382-0303</b></Link>
+              <Link to="/" className="text-sub text-right"><b>XXX-XXX-XXXX</b></Link>
             </div>
           </Col>
         </Row>

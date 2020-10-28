@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `さくら動物病院`,
+    title: `XXX動物病院`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
